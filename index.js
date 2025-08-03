@@ -40,28 +40,30 @@ async function buscarVoos(origem, destino, data) {
     };
 
     const headers = {
-        "authorization": `Bearer ${token}`,
+        "authority": "b2c-api.voeazul.com.br",
         "accept": "application/json, text/plain, */*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+        "authorization": `Bearer ${token}`,
+        "content-length": Buffer.byteLength(JSON.stringify(payload)),
         "content-type": "application/json",
         "culture": "pt-BR",
-        "customerkey": "66eac0d25234157e769e6b69700f462862d5451ba116e71056a606e7",
-        "customernumber": "9873382550",
         "device": "novosite",
         "ocp-apim-subscription-key": OCP_KEY,
         "origin": "https://www.voeazul.com.br",
+        "priority": "u=1, i",
         "referer": "https://www.voeazul.com.br/",
         "sec-ch-ua": '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
         "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": '"Linux"',
+        "sec-ch-ua-platform": '"macOS"',
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-site",
-        "user-agent": USER_AGENT,
-        "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     };
 
     try {
-        const response = await axios.post(url, payload, { headers });
+        const response = await axios.post(url, payload, { headers, withCredentials: true });
         const resultado = [];
 
         response.data.data.trips.forEach(trip => {

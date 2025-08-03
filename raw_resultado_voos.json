@@ -14,7 +14,7 @@
         "region": "Domestic",
         "fareInformation": {
           "lowestPoints": 18000,
-          "highestPoints": 120000
+          "highestPoints": 130000
         },
         "journeys": [
           {
@@ -58,8 +58,8 @@
                           "discountedAmount": 94000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -84,8 +84,8 @@
                           "discountedAmount": 9400
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1506.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1546.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -110,8 +110,8 @@
                           "discountedAmount": 23500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1322.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1362.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -136,8 +136,8 @@
                           "discountedAmount": 47000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 953.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 993.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -162,8 +162,8 @@
                           "discountedAmount": 65800
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 769.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 809.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -271,8 +271,8 @@
                           "discountedAmount": 94000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -297,8 +297,8 @@
                           "discountedAmount": 9400
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1506.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1546.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -323,8 +323,8 @@
                           "discountedAmount": 23500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1322.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1362.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -349,8 +349,8 @@
                           "discountedAmount": 47000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 953.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 993.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -375,8 +375,8 @@
                           "discountedAmount": 65800
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 769.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 809.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -484,8 +484,8 @@
                           "discountedAmount": 94000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -510,8 +510,8 @@
                           "discountedAmount": 9400
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1506.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1546.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -536,8 +536,8 @@
                           "discountedAmount": 23500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1322.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1362.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -562,8 +562,8 @@
                           "discountedAmount": 47000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 953.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 993.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -588,8 +588,8 @@
                           "discountedAmount": 65800
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 769.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 809.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -697,8 +697,8 @@
                           "discountedAmount": 94000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -723,8 +723,8 @@
                           "discountedAmount": 9400
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1506.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1546.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -749,8 +749,8 @@
                           "discountedAmount": 23500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1322.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1362.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -775,8 +775,8 @@
                           "discountedAmount": 47000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 953.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 993.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -801,8 +801,8 @@
                           "discountedAmount": 65800
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 769.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 809.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -910,8 +910,8 @@
                           "discountedAmount": 18000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -936,8 +936,8 @@
                           "discountedAmount": 1800
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1608.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1648.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -962,8 +962,8 @@
                           "discountedAmount": 5400
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1258.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1298.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -988,8 +988,8 @@
                           "discountedAmount": 7200
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1082.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1122.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1014,8 +1014,8 @@
                           "discountedAmount": 9000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 995.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1035.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1112,7 +1112,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1120,11 +1120,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1138,7 +1138,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2598,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1146,11 +1146,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2629.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2669.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1164,7 +1164,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2273,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1172,11 +1172,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2304.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2344.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1190,7 +1190,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1624,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1198,11 +1198,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1655.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1695.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1216,7 +1216,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1299,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1224,11 +1224,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1330.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1370.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1371,7 +1371,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1379,11 +1379,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1397,7 +1397,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2783,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1405,11 +1405,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2814.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2854.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1423,7 +1423,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2435,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1431,11 +1431,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2466.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2506.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1449,7 +1449,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1740,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1457,11 +1457,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1771.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1811.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1475,7 +1475,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1392,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1483,11 +1483,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1423.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1463.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1630,7 +1630,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1638,11 +1638,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1656,7 +1656,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2783,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1664,11 +1664,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2814.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2854.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1682,7 +1682,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2435,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1690,11 +1690,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2466.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2506.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1708,7 +1708,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1740,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1716,11 +1716,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1771.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1811.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1734,7 +1734,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1392,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1742,11 +1742,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1423.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1463.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1889,7 +1889,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1897,11 +1897,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1915,7 +1915,7 @@
                         "paxType": "ADT",
                         "fareMoney": 3764,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1923,11 +1923,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 3795.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 3835.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1941,7 +1941,7 @@
                         "paxType": "ADT",
                         "fareMoney": 3294,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1949,11 +1949,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 3325.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 3365.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1967,7 +1967,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2353,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -1975,11 +1975,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2384.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2424.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -1993,7 +1993,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1883,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2001,11 +2001,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1914.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1954.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2148,7 +2148,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2156,11 +2156,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2174,7 +2174,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2783,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2182,11 +2182,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2814.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2854.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2200,7 +2200,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2435,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2208,11 +2208,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2466.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2506.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2226,7 +2226,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1740,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2234,11 +2234,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1771.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1811.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2252,7 +2252,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1392,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2260,11 +2260,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1423.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1463.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2519,7 +2519,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2527,11 +2527,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2545,7 +2545,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2598,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2553,11 +2553,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2629.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2669.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2571,7 +2571,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2273,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2579,11 +2579,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2304.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2344.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2597,7 +2597,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1624,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2605,11 +2605,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1655.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1695.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2623,7 +2623,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1299,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2631,11 +2631,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1330.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1370.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2778,7 +2778,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2786,11 +2786,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2804,7 +2804,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2598,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2812,11 +2812,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2629.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2669.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2830,7 +2830,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2273,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2838,11 +2838,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2304.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2344.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2856,7 +2856,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1624,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2864,11 +2864,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1655.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1695.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -2882,7 +2882,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1299,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -2890,11 +2890,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1330.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1370.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3149,7 +3149,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3157,11 +3157,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3175,7 +3175,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2598,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3183,11 +3183,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2629.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2669.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3201,7 +3201,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2273,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3209,11 +3209,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2304.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2344.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3227,7 +3227,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1624,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3235,11 +3235,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1655.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1695.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3253,7 +3253,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1299,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3261,11 +3261,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1330.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1370.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3408,7 +3408,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3416,11 +3416,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3434,7 +3434,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2319,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3442,11 +3442,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2350.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2390.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3460,7 +3460,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2030,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3468,11 +3468,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2061.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2101.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3486,7 +3486,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1450,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3494,11 +3494,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1481.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1521.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3512,7 +3512,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1160,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3520,11 +3520,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1191.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1231.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3667,7 +3667,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3675,11 +3675,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3693,7 +3693,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2598,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3701,11 +3701,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2629.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2669.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3719,7 +3719,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2273,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3727,11 +3727,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2304.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2344.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3745,7 +3745,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1624,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3753,11 +3753,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1655.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1695.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3771,7 +3771,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1299,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -3779,11 +3779,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1330.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1370.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3937,8 +3937,8 @@
                           "discountedAmount": 70000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3963,8 +3963,8 @@
                           "discountedAmount": 500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2234.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2274.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -3989,8 +3989,8 @@
                           "discountedAmount": 10500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1959.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1999.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4015,8 +4015,8 @@
                           "discountedAmount": 24500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1546.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1586.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4041,8 +4041,8 @@
                           "discountedAmount": 35000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1271.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1311.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4185,7 +4185,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4193,11 +4193,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4211,7 +4211,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2760,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4219,11 +4219,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2791.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2831.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4237,7 +4237,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2415,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4245,11 +4245,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2446.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2486.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4263,7 +4263,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1725,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4271,11 +4271,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1756.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1796.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4289,7 +4289,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1380,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4297,11 +4297,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1411.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1451.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4444,7 +4444,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4452,11 +4452,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4470,7 +4470,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2319,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4478,11 +4478,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2350.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2390.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4496,7 +4496,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2030,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4504,11 +4504,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2061.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2101.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4522,7 +4522,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1450,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4530,11 +4530,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1481.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1521.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4548,7 +4548,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1160,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4556,11 +4556,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1191.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1231.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4703,7 +4703,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4711,11 +4711,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4729,7 +4729,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2783,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4737,11 +4737,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2814.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2854.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4755,7 +4755,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2435,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4763,11 +4763,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2466.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2506.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4781,7 +4781,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1740,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4789,11 +4789,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1771.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1811.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4807,7 +4807,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1392,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -4815,11 +4815,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1423.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1463.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4973,8 +4973,8 @@
                           "discountedAmount": 70000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -4999,8 +4999,8 @@
                           "discountedAmount": 500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2234.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2274.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5025,8 +5025,8 @@
                           "discountedAmount": 10500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1959.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1999.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5051,8 +5051,8 @@
                           "discountedAmount": 24500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1546.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1586.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5077,8 +5077,8 @@
                           "discountedAmount": 35000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1271.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1311.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5221,7 +5221,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5229,11 +5229,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5247,7 +5247,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2203,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5255,11 +5255,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2234.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2274.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5273,7 +5273,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1928,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5281,11 +5281,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1959.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1999.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5299,7 +5299,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1377,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5307,11 +5307,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1408.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1448.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5325,7 +5325,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1102,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5333,11 +5333,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1133.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1173.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5480,7 +5480,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5488,11 +5488,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5506,7 +5506,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2319,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5514,11 +5514,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2350.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2390.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5532,7 +5532,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2030,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5540,11 +5540,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2061.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2101.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5558,7 +5558,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1450,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5566,11 +5566,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1481.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1521.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5584,7 +5584,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1160,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5592,11 +5592,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1191.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1231.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5764,7 +5764,7 @@
                         "paxType": "ADT",
                         "fareMoney": 0,
                         "points": {
-                          "amount": 120000,
+                          "amount": 130000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5772,11 +5772,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 120000
+                          "discountedAmount": 130000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 31.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 71.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5790,7 +5790,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2621,
                         "points": {
-                          "amount": 8400,
+                          "amount": 9100,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5798,11 +5798,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 8400
+                          "discountedAmount": 9100
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2652.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2692.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5816,7 +5816,7 @@
                         "paxType": "ADT",
                         "fareMoney": 2293,
                         "points": {
-                          "amount": 30000,
+                          "amount": 32500,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5824,11 +5824,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 30000
+                          "discountedAmount": 32500
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 2324.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 2364.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5842,7 +5842,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1638,
                         "points": {
-                          "amount": 60000,
+                          "amount": 65000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5850,11 +5850,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 60000
+                          "discountedAmount": 65000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1669.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1709.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
@@ -5868,7 +5868,7 @@
                         "paxType": "ADT",
                         "fareMoney": 1311,
                         "points": {
-                          "amount": 84000,
+                          "amount": 91000,
                           "discount": {
                             "applied": false,
                             "amount": 0,
@@ -5876,11 +5876,11 @@
                             "restriction": null,
                             "discountRuleForContactPax": false
                           },
-                          "discountedAmount": 84000
+                          "discountedAmount": 91000
                         },
                         "taxesAndFees": 31.94,
-                        "convenienceFee": 0,
-                        "totalMoney": 1342.94,
+                        "convenienceFee": 39.9,
+                        "totalMoney": 1382.84,
                         "currencyCode": "BRL",
                         "hold": null
                       }
