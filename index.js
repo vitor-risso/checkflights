@@ -132,3 +132,5 @@ async function buscarVoos(origem, destino, data) {
     }
 }
 
+
+buscarVoos("VCP", "SSA", "2025-08-10")

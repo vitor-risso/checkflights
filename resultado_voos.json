@@ -1,706 +1,2011 @@
 [
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
-        "pontos": 8400,
-        "taxas": 1228.56
+        "pontos": 9400,
+        "taxas": 1506.94
       },
       {
-        "pontos": 120000,
-        "taxas": 52.56
+        "pontos": 94000,
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4942",
         "companhia": "AD",
         "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2738",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
+        "origem": "VCP",
         "destino": "SSA",
-        "partida": "2025-08-21T07:55:00",
-        "chegada": "2025-08-21T09:40:00"
+        "partida": "2025-08-10T06:15:00",
+        "chegada": "2025-08-10T08:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
-        "pontos": 8400,
-        "taxas": 1228.56
+        "pontos": 9400,
+        "taxas": 1506.94
       },
       {
-        "pontos": 120000,
-        "taxas": 52.56
+        "pontos": 94000,
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4942",
         "companhia": "AD",
         "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2738",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
+        "origem": "VCP",
         "destino": "SSA",
-        "partida": "2025-08-21T07:55:00",
-        "chegada": "2025-08-21T09:40:00"
+        "partida": "2025-08-10T06:15:00",
+        "chegada": "2025-08-10T08:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
-        "pontos": 8400,
-        "taxas": 1228.56
+        "pontos": 9400,
+        "taxas": 1506.94
       },
       {
-        "pontos": 120000,
-        "taxas": 52.56
+        "pontos": 94000,
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4942",
         "companhia": "AD",
         "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2738",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
+        "origem": "VCP",
         "destino": "SSA",
-        "partida": "2025-08-21T07:55:00",
-        "chegada": "2025-08-21T09:40:00"
+        "partida": "2025-08-10T06:15:00",
+        "chegada": "2025-08-10T08:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
-        "pontos": 8400,
-        "taxas": 1228.56
+        "pontos": 9400,
+        "taxas": 1506.94
       },
       {
-        "pontos": 120000,
-        "taxas": 52.56
+        "pontos": 94000,
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4942",
         "companhia": "AD",
         "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2738",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
+        "origem": "VCP",
         "destino": "SSA",
-        "partida": "2025-08-21T07:55:00",
-        "chegada": "2025-08-21T09:40:00"
+        "partida": "2025-08-10T06:15:00",
+        "chegada": "2025-08-10T08:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
-        "pontos": 8400,
-        "taxas": 1228.56
+        "pontos": 9400,
+        "taxas": 1506.94
       },
       {
-        "pontos": 120000,
-        "taxas": 52.56
+        "pontos": 94000,
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4942",
         "companhia": "AD",
         "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2738",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
+        "origem": "VCP",
         "destino": "SSA",
-        "partida": "2025-08-21T07:55:00",
-        "chegada": "2025-08-21T09:40:00"
+        "partida": "2025-08-10T06:15:00",
+        "chegada": "2025-08-10T08:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
-        "pontos": 8400,
-        "taxas": 1228.56
+        "pontos": 9400,
+        "taxas": 1506.94
       },
       {
-        "pontos": 120000,
-        "taxas": 52.56
+        "pontos": 94000,
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4765",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T08:30:00",
+        "chegada": "2025-08-10T10:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4765",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T08:30:00",
+        "chegada": "2025-08-10T10:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4765",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T08:30:00",
+        "chegada": "2025-08-10T10:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4765",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T08:30:00",
+        "chegada": "2025-08-10T10:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4765",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T08:30:00",
+        "chegada": "2025-08-10T10:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2991",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T13:00:00",
+        "chegada": "2025-08-10T15:20:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2991",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T13:00:00",
+        "chegada": "2025-08-10T15:20:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2991",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T13:00:00",
+        "chegada": "2025-08-10T15:20:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2991",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T13:00:00",
+        "chegada": "2025-08-10T15:20:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2991",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T13:00:00",
+        "chegada": "2025-08-10T15:20:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4141",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T16:20:00",
+        "chegada": "2025-08-10T18:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4141",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T16:20:00",
+        "chegada": "2025-08-10T18:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4141",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T16:20:00",
+        "chegada": "2025-08-10T18:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4141",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T16:20:00",
+        "chegada": "2025-08-10T18:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 9400,
+        "taxas": 1506.94
+      },
+      {
+        "pontos": 94000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4141",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T16:20:00",
+        "chegada": "2025-08-10T18:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 1800,
+        "taxas": 1608.94
+      },
+      {
+        "pontos": 18000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4372",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:50:00",
+        "chegada": "2025-08-11T02:10:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 1800,
+        "taxas": 1608.94
+      },
+      {
+        "pontos": 18000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4372",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:50:00",
+        "chegada": "2025-08-11T02:10:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 1800,
+        "taxas": 1608.94
+      },
+      {
+        "pontos": 18000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4372",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:50:00",
+        "chegada": "2025-08-11T02:10:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 1800,
+        "taxas": 1608.94
+      },
+      {
+        "pontos": 18000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4372",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:50:00",
+        "chegada": "2025-08-11T02:10:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 1800,
+        "taxas": 1608.94
+      },
+      {
+        "pontos": 18000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4372",
+        "companhia": "AD",
+        "aeronave": "Airbus A320",
+        "origem": "VCP",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:50:00",
+        "chegada": "2025-08-11T02:10:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4079",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T06:00:00",
+        "chegada": "2025-08-10T09:05:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4079",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T06:00:00",
+        "chegada": "2025-08-10T09:05:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4079",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T06:00:00",
+        "chegada": "2025-08-10T09:05:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4079",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T06:00:00",
+        "chegada": "2025-08-10T09:05:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4079",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T06:00:00",
+        "chegada": "2025-08-10T09:05:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4043",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "4300",
         "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T12:55:00",
-        "chegada": "2025-08-21T14:40:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "4300",
         "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T12:55:00",
-        "chegada": "2025-08-21T14:40:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "4300",
         "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T12:55:00",
-        "chegada": "2025-08-21T14:40:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "4300",
         "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T12:55:00",
-        "chegada": "2025-08-21T14:40:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "4300",
         "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T12:55:00",
-        "chegada": "2025-08-21T14:40:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "2658",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T07:55:00",
+        "chegada": "2025-08-10T09:05:00"
       },
       {
-        "numeroVoo": "9072",
+        "numeroVoo": "4300",
         "companhia": "AD",
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T15:45:00",
-        "chegada": "2025-08-21T17:25:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "2658",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T07:55:00",
+        "chegada": "2025-08-10T09:05:00"
       },
       {
-        "numeroVoo": "9072",
+        "numeroVoo": "4300",
         "companhia": "AD",
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T15:45:00",
-        "chegada": "2025-08-21T17:25:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "2658",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T07:55:00",
+        "chegada": "2025-08-10T09:05:00"
       },
       {
-        "numeroVoo": "9072",
+        "numeroVoo": "4300",
         "companhia": "AD",
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T15:45:00",
-        "chegada": "2025-08-21T17:25:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "2658",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T07:55:00",
+        "chegada": "2025-08-10T09:05:00"
       },
       {
-        "numeroVoo": "9072",
+        "numeroVoo": "4300",
         "companhia": "AD",
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T15:45:00",
-        "chegada": "2025-08-21T17:25:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1228.56
+        "taxas": 2814.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "2658",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T07:55:00",
+        "chegada": "2025-08-10T09:05:00"
       },
       {
-        "numeroVoo": "9072",
+        "numeroVoo": "4300",
         "companhia": "AD",
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T15:45:00",
-        "chegada": "2025-08-21T17:25:00"
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1228.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4852",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:55:00",
-        "chegada": "2025-08-21T19:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1228.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4852",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:55:00",
-        "chegada": "2025-08-21T19:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1228.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4852",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:55:00",
-        "chegada": "2025-08-21T19:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1228.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4852",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:55:00",
-        "chegada": "2025-08-21T19:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1228.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4852",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:55:00",
-        "chegada": "2025-08-21T19:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1428.56
+        "taxas": 3795.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "2496",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T11:40:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 3795.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2496",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T11:40:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 3795.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2496",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T11:40:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 3795.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2496",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T11:40:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 3795.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2496",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T11:40:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4045",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T10:00:00",
+        "chegada": "2025-08-10T11:10:00"
+      },
+      {
+        "numeroVoo": "4300",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4045",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T10:00:00",
+        "chegada": "2025-08-10T11:10:00"
+      },
+      {
+        "numeroVoo": "4300",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4045",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T10:00:00",
+        "chegada": "2025-08-10T11:10:00"
+      },
+      {
+        "numeroVoo": "4300",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4045",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T10:00:00",
+        "chegada": "2025-08-10T11:10:00"
+      },
+      {
+        "numeroVoo": "4300",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4045",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T10:00:00",
+        "chegada": "2025-08-10T11:10:00"
+      },
+      {
+        "numeroVoo": "4300",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T12:50:00",
+        "chegada": "2025-08-10T14:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4067",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T17:20:00",
+        "chegada": "2025-08-10T18:45:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2805",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T13:30:00",
+        "chegada": "2025-08-10T16:35:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2810",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T17:10:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2810",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T17:10:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2810",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T17:10:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2810",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T17:10:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2810",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T17:10:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4957",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T15:15:00"
       },
       {
         "numeroVoo": "2752",
@@ -708,33 +2013,33 @@
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T22:00:00",
-        "chegada": "2025-08-21T23:45:00"
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1428.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4957",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T15:15:00"
       },
       {
         "numeroVoo": "2752",
@@ -742,33 +2047,33 @@
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T22:00:00",
-        "chegada": "2025-08-21T23:45:00"
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1428.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4957",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T15:15:00"
       },
       {
         "numeroVoo": "2752",
@@ -776,33 +2081,33 @@
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T22:00:00",
-        "chegada": "2025-08-21T23:45:00"
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1428.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4957",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T15:15:00"
       },
       {
         "numeroVoo": "2752",
@@ -810,33 +2115,33 @@
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T22:00:00",
-        "chegada": "2025-08-21T23:45:00"
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1428.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4957",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T14:05:00",
+        "chegada": "2025-08-10T15:15:00"
       },
       {
         "numeroVoo": "2752",
@@ -844,33 +2149,1223 @@
         "aeronave": "Embraer 195-2",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T22:00:00",
-        "chegada": "2025-08-21T23:45:00"
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1346.56
+        "taxas": 2629.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4400",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2629.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "4429",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-10T22:10:00",
+        "chegada": "2025-08-10T23:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4400",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T18:00:00",
+        "chegada": "2025-08-10T21:05:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2791.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2920",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T18:15:00",
+        "chegada": "2025-08-10T19:25:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2791.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2920",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T18:15:00",
+        "chegada": "2025-08-10T19:25:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2791.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2920",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T18:15:00",
+        "chegada": "2025-08-10T19:25:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2791.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2920",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T18:15:00",
+        "chegada": "2025-08-10T19:25:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2791.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2920",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T18:15:00",
+        "chegada": "2025-08-10T19:25:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2643",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T20:05:00",
+        "chegada": "2025-08-10T21:15:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2643",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T20:05:00",
+        "chegada": "2025-08-10T21:15:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2643",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T20:05:00",
+        "chegada": "2025-08-10T21:15:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2643",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T20:05:00",
+        "chegada": "2025-08-10T21:15:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "2643",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T20:05:00",
+        "chegada": "2025-08-10T21:15:00"
+      },
+      {
+        "numeroVoo": "2752",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-10T23:15:00",
+        "chegada": "2025-08-11T01:00:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "9000",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T22:45:00",
+        "chegada": "2025-08-10T23:55:00"
+      },
+      {
+        "numeroVoo": "2738",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-11T07:55:00",
+        "chegada": "2025-08-11T09:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "9000",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T22:45:00",
+        "chegada": "2025-08-10T23:55:00"
+      },
+      {
+        "numeroVoo": "2738",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-11T07:55:00",
+        "chegada": "2025-08-11T09:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "9000",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T22:45:00",
+        "chegada": "2025-08-10T23:55:00"
+      },
+      {
+        "numeroVoo": "2738",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-11T07:55:00",
+        "chegada": "2025-08-11T09:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "9000",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T22:45:00",
+        "chegada": "2025-08-10T23:55:00"
+      },
+      {
+        "numeroVoo": "2738",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-11T07:55:00",
+        "chegada": "2025-08-11T09:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2814.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "9000",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T22:45:00",
+        "chegada": "2025-08-10T23:55:00"
+      },
+      {
+        "numeroVoo": "2738",
+        "companhia": "AD",
+        "aeronave": "Não informado",
+        "origem": "CNF",
+        "destino": "SSA",
+        "partida": "2025-08-11T07:55:00",
+        "chegada": "2025-08-11T09:40:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 500,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 70000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2844",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T03:10:00",
+        "chegada": "2025-08-11T04:35:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2674",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T08:25:00",
+        "chegada": "2025-08-11T09:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2674",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T08:25:00",
+        "chegada": "2025-08-11T09:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2674",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T08:25:00",
+        "chegada": "2025-08-11T09:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2674",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T08:25:00",
+        "chegada": "2025-08-11T09:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2234.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4092",
+        "companhia": "AD",
+        "aeronave": "Airbus A321",
+        "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "2674",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "REC",
+        "destino": "SSA",
+        "partida": "2025-08-11T08:25:00",
+        "chegada": "2025-08-11T09:50:00"
+      }
+    ]
+  },
+  {
+    "origem": "VCP",
+    "destino": "SSA",
+    "valores": [
+      {
+        "pontos": 8400,
+        "taxas": 2350.94
+      },
+      {
+        "pontos": 120000,
+        "taxas": 31.94
+      }
+    ],
+    "voos": [
+      {
+        "numeroVoo": "4043",
+        "companhia": "AD",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
+        "destino": "CNF",
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "5033",
@@ -878,33 +3373,33 @@
         "aeronave": "ATR",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T08:35:00",
-        "chegada": "2025-08-21T13:30:00"
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T13:30:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1346.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "5033",
@@ -912,33 +3407,33 @@
         "aeronave": "ATR",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T08:35:00",
-        "chegada": "2025-08-21T13:30:00"
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T13:30:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1346.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "5033",
@@ -946,33 +3441,33 @@
         "aeronave": "ATR",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T08:35:00",
-        "chegada": "2025-08-21T13:30:00"
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T13:30:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1346.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "5033",
@@ -980,33 +3475,33 @@
         "aeronave": "ATR",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T08:35:00",
-        "chegada": "2025-08-21T13:30:00"
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T13:30:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1346.56
+        "taxas": 2350.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4043",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
+        "aeronave": "Embraer 195-2",
+        "origem": "VCP",
         "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
+        "partida": "2025-08-10T06:20:00",
+        "chegada": "2025-08-10T07:30:00"
       },
       {
         "numeroVoo": "5033",
@@ -1014,3018 +3509,178 @@
         "aeronave": "ATR",
         "origem": "CNF",
         "destino": "SSA",
-        "partida": "2025-08-21T08:35:00",
-        "chegada": "2025-08-21T13:30:00"
+        "partida": "2025-08-10T08:35:00",
+        "chegada": "2025-08-10T13:30:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1229.56
+        "taxas": 2652.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4092",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
+        "aeronave": "Airbus A321",
         "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "2991",
-        "companhia": "AD",
-        "aeronave": "Não informado",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T13:00:00",
-        "chegada": "2025-08-21T15:20:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4096",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T07:45:00",
-        "chegada": "2025-08-21T09:00:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4328",
-        "companhia": "AD",
-        "aeronave": "Embraer 195",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T09:00:00",
-        "chegada": "2025-08-21T10:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4321",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T12:10:00",
-        "chegada": "2025-08-21T13:25:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4321",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T12:10:00",
-        "chegada": "2025-08-21T13:25:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4321",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T12:10:00",
-        "chegada": "2025-08-21T13:25:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4321",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T12:10:00",
-        "chegada": "2025-08-21T13:25:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4321",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T12:10:00",
-        "chegada": "2025-08-21T13:25:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4917",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T14:00:00",
-        "chegada": "2025-08-21T15:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4917",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T14:00:00",
-        "chegada": "2025-08-21T15:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4917",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T14:00:00",
-        "chegada": "2025-08-21T15:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4917",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T14:00:00",
-        "chegada": "2025-08-21T15:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4917",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T14:00:00",
-        "chegada": "2025-08-21T15:15:00"
-      },
-      {
-        "numeroVoo": "4141",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T16:20:00",
-        "chegada": "2025-08-21T18:40:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
         "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
       },
       {
-        "numeroVoo": "4067",
+        "numeroVoo": "4330",
         "companhia": "AD",
-        "aeronave": "Embraer 195-2",
+        "aeronave": "ATR",
         "origem": "REC",
         "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
+        "partida": "2025-08-11T08:40:00",
+        "chegada": "2025-08-11T11:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1428.56
+        "taxas": 2652.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4092",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4067",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T17:20:00",
-        "chegada": "2025-08-21T18:45:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1451.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "5089",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T08:10:00",
-        "chegada": "2025-08-21T10:40:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2539",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T15:05:00",
-        "chegada": "2025-08-21T17:30:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2539",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T15:05:00",
-        "chegada": "2025-08-21T17:30:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2539",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T15:05:00",
-        "chegada": "2025-08-21T17:30:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2539",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T15:05:00",
-        "chegada": "2025-08-21T17:30:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2539",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T15:05:00",
-        "chegada": "2025-08-21T17:30:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4890",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "CNF",
-        "destino": "REC",
-        "partida": "2025-08-21T13:20:00",
-        "chegada": "2025-08-21T15:50:00"
-      },
-      {
-        "numeroVoo": "4429",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "REC",
-        "destino": "SSA",
-        "partida": "2025-08-21T22:05:00",
-        "chegada": "2025-08-21T23:30:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1111.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4082",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T21:35:00",
-        "chegada": "2025-08-21T22:50:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Airbus A321",
         "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "4330",
+        "companhia": "AD",
+        "aeronave": "ATR",
+        "origem": "REC",
         "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
+        "partida": "2025-08-11T08:40:00",
+        "chegada": "2025-08-11T11:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1111.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4082",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T21:35:00",
-        "chegada": "2025-08-21T22:50:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1111.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4082",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T21:35:00",
-        "chegada": "2025-08-21T22:50:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1111.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4082",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T21:35:00",
-        "chegada": "2025-08-21T22:50:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 500,
-        "taxas": 1111.56
-      },
-      {
-        "pontos": 28000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4082",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T21:35:00",
-        "chegada": "2025-08-21T22:50:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1229.56
+        "taxas": 2652.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4092",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2921",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T20:10:00",
-        "chegada": "2025-08-21T21:25:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Airbus A321",
         "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "4330",
+        "companhia": "AD",
+        "aeronave": "ATR",
+        "origem": "REC",
         "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
+        "partida": "2025-08-11T08:40:00",
+        "chegada": "2025-08-11T11:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1229.56
+        "taxas": 2652.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4092",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2921",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T20:10:00",
-        "chegada": "2025-08-21T21:25:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Airbus A321",
         "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "4330",
+        "companhia": "AD",
+        "aeronave": "ATR",
+        "origem": "REC",
         "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
+        "partida": "2025-08-11T08:40:00",
+        "chegada": "2025-08-11T11:35:00"
       }
     ]
   },
   {
-    "origem": "RBR",
+    "origem": "VCP",
     "destino": "SSA",
     "valores": [
       {
         "pontos": 8400,
-        "taxas": 1229.56
+        "taxas": 2652.94
       },
       {
         "pontos": 120000,
-        "taxas": 52.56
+        "taxas": 31.94
       }
     ],
     "voos": [
       {
-        "numeroVoo": "4599",
+        "numeroVoo": "4092",
         "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2921",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T20:10:00",
-        "chegada": "2025-08-21T21:25:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
+        "aeronave": "Airbus A321",
         "origem": "VCP",
+        "destino": "REC",
+        "partida": "2025-08-10T23:10:00",
+        "chegada": "2025-08-11T02:15:00"
+      },
+      {
+        "numeroVoo": "4330",
+        "companhia": "AD",
+        "aeronave": "ATR",
+        "origem": "REC",
         "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2921",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T20:10:00",
-        "chegada": "2025-08-21T21:25:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1229.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "2921",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T20:10:00",
-        "chegada": "2025-08-21T21:25:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4046",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T15:55:00",
-        "chegada": "2025-08-21T17:10:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4046",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T15:55:00",
-        "chegada": "2025-08-21T17:10:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4046",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T15:55:00",
-        "chegada": "2025-08-21T17:10:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4046",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T15:55:00",
-        "chegada": "2025-08-21T17:10:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
-      }
-    ]
-  },
-  {
-    "origem": "RBR",
-    "destino": "SSA",
-    "valores": [
-      {
-        "pontos": 8400,
-        "taxas": 1428.56
-      },
-      {
-        "pontos": 120000,
-        "taxas": 52.56
-      }
-    ],
-    "voos": [
-      {
-        "numeroVoo": "4599",
-        "companhia": "AD",
-        "aeronave": "Airbus A320  NEO",
-        "origem": "RBR",
-        "destino": "CNF",
-        "partida": "2025-08-21T00:50:00",
-        "chegada": "2025-08-21T06:40:00"
-      },
-      {
-        "numeroVoo": "4046",
-        "companhia": "AD",
-        "aeronave": "Embraer 195-2",
-        "origem": "CNF",
-        "destino": "VCP",
-        "partida": "2025-08-21T15:55:00",
-        "chegada": "2025-08-21T17:10:00"
-      },
-      {
-        "numeroVoo": "4372",
-        "companhia": "AD",
-        "aeronave": "Airbus A320",
-        "origem": "VCP",
-        "destino": "SSA",
-        "partida": "2025-08-21T23:50:00",
-        "chegada": "2025-08-22T02:10:00"
+        "partida": "2025-08-11T08:40:00",
+        "chegada": "2025-08-11T11:35:00"
       }
     ]
   }
