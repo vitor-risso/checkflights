@@ -19,6 +19,7 @@ async function getToken() {
 
     const response = await axios.post(url, payload, { headers });
     //console.log(response.data)
+    console.log("Token pego")
     return response.data.data; // ✅ pegar só o token JWT
 }
 
@@ -55,8 +56,8 @@ async function buscarVoos(origem, destino, data) {
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-site",
-        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-    };
+        "user-agent":USER_AGENT
+        };
 
     try {
         const response = await axios.post(url, payload, { headers, withCredentials: true });
