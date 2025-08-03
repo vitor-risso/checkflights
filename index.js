@@ -40,7 +40,6 @@ async function buscarVoos(origem, destino, data) {
     };
 
     const headers = {
-       // "authority": "b2c-api.voeazul.com.br",
         "accept": "application/json, text/plain, */*",
         "accept-encoding": "gzip, deflate, br, zstd",
         "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
@@ -52,7 +51,7 @@ async function buscarVoos(origem, destino, data) {
         "referer": "https://www.voeazul.com.br/",
         "sec-ch-ua": '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
         "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": 'Linux',
+        "sec-ch-ua-platform": "Linux",
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-site",
