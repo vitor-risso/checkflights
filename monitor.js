@@ -291,7 +291,7 @@ async function monitorarPrecos() {
     } else if (args[0] === "run") {
         await monitorarPrecos();
         // roda a cada 30 min
-       setInterval(monitorarPrecos, 30 * 1000);
+       setInterval(monitorarPrecos, 30 * 60 * 1000);
     } else {
         console.log("Uso:");
         console.log(" node monitor.js add <PNR> <ORIGEM>");
